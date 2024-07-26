@@ -1,0 +1,10 @@
+@tailwind components;
+@tailwind utilities;
+
+.my-swal-popup {
+  z-index: 9999 !important;
+}
+
+.my-swal-overlay {
+  z-index: 9998 !important;
+}
